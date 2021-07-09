@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "相关发表"
+title: "Publications"
 ---
 
 # 论文

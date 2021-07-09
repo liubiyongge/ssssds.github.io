@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "C2 Group"
+title: "SSS&SDS Group"
 url: /
 ---
 # What is C2
