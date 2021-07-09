@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "C2 Group"
+title: "SSS&SDS Group"
 description: > # this means to ignore newlines until "baseurl:"
-  C2 Group in Science and Technology on Information Systems Engineering Laboratory
+  SSS&SDS is a academic group in Huazhong University of Science and Technology.
 baseurl: ""
-url: "https://c2-group.github.io"
+url: "https://ssssds.github.io"
 permalink: /:year/:month/:day/:title
 paginate: 8
 lsi: false
