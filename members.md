@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Group Members"
 ---
 # 研究入门指南
 
