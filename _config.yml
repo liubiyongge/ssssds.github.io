@@ -31,12 +31,12 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 # MatJek specific configurations
-github_profile: "https://github.com/c2-group/c2-group.github.io"
-user: "c2-group"
-user_email: "academic pages for c2 group"
-contact_url: "https://goo.gl/tVljbV"
-google_tracking_id: "UA-96359860-1"
-google_site_verification: "UA-96359860-1"
+github_profile: "https://github.com/SSSSDS/ssssds.github.io"
+user: "SSS&SDS group"
+user_email: "academic pages for SSS&SDS group"
+#contact_url: "https://goo.gl/tVljbV"
+#google_tracking_id: "UA-96359860-1"
+#google_site_verification: "UA-96359860-1"
 disqus_shortname: "matjek"
 
 # Build settings
