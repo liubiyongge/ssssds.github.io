@@ -32,6 +32,19 @@ title: "Publications"
 - **[MSST]** **[OSwrite: Improving the lifetime of MLC STT-RAM with One-Step write](https://storageconference.us/2020/Papers/17.OSWrite.pdf)** in Proceedings of 36th International Conference on Massive Storage Systems and Technology (MSST), 2020.
 <br/>Wei Zhao, Wei Tong, Dan Feng, Jingning Liu, Jie Xu, Xueliang Wei, Bing Wu, Chengning Wang, Weilin Zhu, Bo Liu.
 
+- **[MSST]** **[Maximizing Bandwidth Management FTL Based on Read and Write Asymmetry of Flash Memory](https://storageconference.us/2020/Papers/13.MaximizingBandwidth.pdf)** in Proceedings of 36th International Conference on Massive Storage Systems and Technology (MSST), 2020.
+<br/>Bihan Li, Wei Tong, Jingning Liu, Dan Feng, Yazhi Feng, Junqing Qin, Peihao Li and Bo Liu.
+
+## **2019**
+- **[DAC]** **[Adaptive Granularity Encoding for Energy-efficient Non-Volatile Main Memory](https://csyhua.github.io/csyhua/hua-dac2019-coding.pdf)** in Proceedings of the 56th Design Automation Conference (DAC), 2019. (Acceptance rate: 22%)
+<br/>Jie Xu, Dan Feng, Yu Hua, Wei Tong, Jingning Liu, Yiran Chen, Chunyan Li, Gaoxiang Xu.
+
+- **[DAC]** **[An Efficient Spare-Line Replacement Scheme to Enhance NVM Security](https://csyhua.github.io/csyhua/hua-dac2019-security.pdf)** in Proceedings of the 56th Design Automation Conference (DAC), 2019. (Acceptance rate: 22%)
+<br/>Jie Xu, Dan Feng, Yu Hua, Fangting Huang, Wen Zhou, Wei Tong, Jingning Liu.
+
+- **[ICCD Best Paper Candidate]** **[ReRAM Crossbar-Based Analog Computing Architecture for Naive Bayesian Engine](https://ieeexplore.ieee.org/abstract/document/8988629/)** in Proceedings of 37th International Conference on Computer Design (ICCD), 2019.
+<br/>Bing Wu, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, Wei Zhao.
+
 # Journal Paper
 
 ## **2021**
@@ -46,4 +59,21 @@ title: "Publications"
 
 - **[IEEE Access]** **[CeSR + Assisted LDPC: A Holistic Strategy to Improve MLC NAND Flash Reliability](https://ieeexplore.ieee.org/abstract/document/9055021)** is published in IEEE Access, 2020.
 <br/>Hongwei Qin, Yutong Zhao, Dan Feng, Jingning Liu, Wei Tong.
+
+
+## **2019**
+
+
+- **[TCAD]** **[A low power reconfigurable memory architecture for complementary resistive switches]()** is accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2019.
+<br/>Bing Wu, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, Wei Zhao, Yang Zhang.
+
+- **[TCAD]** **[A Low-Overhead Encoding Scheme to Extend the Lifetime of Nonvolatile Memories](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8941096)** is accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2019.
+<br/>Dan Feng; Jie Xu; Yu Hua; Wei Tong; Jingning Liu; Chunyan Li; Yiran Chen.
+
+- **[TED]** **[Design and Analysis of Address-Adaptive Read Reference Settings for Multilevel Cell Cross-Point Memory Arrays]()** is published in IEEE Transactions on Electron Devices(TED), 2019.
+<br/>Chengning Wang, Dan Feng, Wei Tong, Jingning Liu, Bing Wu, Wei Zhao, Yang Zhang.
+
+- **[TODAES]** **[Cross-point resistive memory: Nonideal properties and solutions]()** is accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES), 2019
+<br/>Chengning Wang, Dan Feng, Wei Tong, Jingning Liu, Zheng Li, Jiayi Chang, Yang Zhang, Bing Wu, Jie Xu, Wei Zhao, Yilin Li, Ruoxi Ren.
+
 
