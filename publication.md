@@ -29,7 +29,7 @@ title: "Publications"
 - **[ICPP]** **[CCHL: Compression-Consolidation Hardware Logging for Efficient Failure-Atomic Persistent Memory Updates](https://dl.acm.org/doi/abs/10.1145/3404397.3404461)** in Proceedings of 49th International Conference on Parallel Processing (ICPP), 2020.
 <br/>Xueliang Wei, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, and Liuqing Ye.
 
-- **[MSST]** **[OSwrite: Improving the lifetime of MLC STT-RAM with One-Step write](https://dl.acm.org/doi/abs/10.1145/3404397.3404461)** in Proceedings of 36th International Conference on Massive Storage Systems and Technology (MSST), 2020.
+- **[MSST]** **[OSwrite: Improving the lifetime of MLC STT-RAM with One-Step write](https://storageconference.us/2020/Papers/17.OSWrite.pdf)** in Proceedings of 36th International Conference on Massive Storage Systems and Technology (MSST), 2020.
 <br/>Wei Zhao, Wei Tong, Dan Feng, Jingning Liu, Jie Xu, Xueliang Wei, Bing Wu, Chengning Wang, Weilin Zhu, Bo Liu.
 
 # Journal Paper
