@@ -3,10 +3,13 @@ layout: single
 title: "Publications"
 ---
 
-# 论文
+# Paper
 
 ---
-
+## **2021:**
+- **[Improving the energy efficiency of STT-MRAM based approximate cache](http://thiszw.top/paper/appcache.pdf)** in Proceedings of Design, Automation and Test in Europe Conference (DATE), 2021.(Acceptance Rate: 24%)
+  <br/>Wei Zhao, Wei Tong, Dan Feng, Jingning Liu, Zhangyu Chen, Jie Xu, Bing Wu, Chengning Wang and Bo Liu.
+  
 ## **2020:**
 
 - **[Identifying vital nodes in complex networks by adjacency information entropy](./assets/res/Identifying vital nodes in complex networks by adjacency information entropy.pdf)**
