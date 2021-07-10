@@ -45,6 +45,15 @@ title: "Publications"
 - **[ICCD Best Paper Candidate]** **[ReRAM Crossbar-Based Analog Computing Architecture for Naive Bayesian Engine](https://ieeexplore.ieee.org/abstract/document/8988629/)** in Proceedings of 37th International Conference on Computer Design (ICCD), 2019.
 <br/>Bing Wu, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, Wei Zhao.
 
+- **[MSST]** **[Tiered-ReRAM: A Low Latency and Energy Efficient TLC Crossbar ReRAM Architecture](https://storageconference.us/2019/Research/Tiered-ReRAM.pdf)** in Proceedings of 35th International Conference on Massive Storage Systems and Technology (MSST), 2019.
+<br/>Yang Zhang, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, Jie Xu.
+
+- **[MSST]** **[CeSR: A Cell State Remapping Strategy to Reduce Raw Bit Error Rate of MLC NAND Flash](https://storageconference.us/2019/Research/CeSR.pdf)** in Proceedings of 35th International Conference on Massive Storage Systems and Technology (MSST), 2019.
+<br/>Yutong Zhao, Wei Tong, Jingning Liu, Dan Feng, Hongwei Qin.
+
+- **[DATE]** **[QBLK: Towards Fully Exploiting the Parallelism of Open-Channel SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8715049)** in Proceedings of Design, Automation and Test in Europe Conference (DATE), 2019.
+  <br/>Hongwei Qin, Dan Feng, Wei Tong, Jingning Liu, Yutong Zhao.
+
 # Journal Paper
 
 ## **2021**
