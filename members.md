@@ -25,9 +25,9 @@ title: "Group Members"
 ## In Lab
 
 ## Graduated
-<br/>2021: Yufei Xiong (Byte Dance), Ziwei Zhao (Tencent), Qinian Liu (Alibaba), Zike Wang (Meituan), Junqing Qin (Huawei), Bihan Li (Alibaba).  
-<br/>2020: Xianpeng Wang (Huawei), Yutong Zhao (Huawei), Junzhong Deng (), Jiayi Chang ().  
-<br/>2019: Yilin Li (Alibaba)  
+<br/>2021: Yufei Xiong (Byte Dance), Ziwei Zhao (Tencent), Qinian Liu (Alibaba), Zike Wang (Meituan), Junqing Qin (Huawei), Bihan Li (Alibaba).
+<br/>2020: Xianpeng Wang (Huawei), Yutong Zhao (Huawei), Junzhong Deng (), Jiayi Chang ().
+<br/>2019: Yilin Li (Alibaba)
 
 
 
