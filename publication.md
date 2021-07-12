@@ -54,6 +54,10 @@ title: "Publications"
 - **[DATE]** **[QBLK: Towards Fully Exploiting the Parallelism of Open-Channel SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8715049)** in Proceedings of Design, Automation and Test in Europe Conference (DATE), 2019. [[code](https://github.com/WNLO-DSAL/QBLK)]
   <br/>Hongwei Qin, Dan Feng, Wei Tong, Jingning Liu, Yutong Zhao.
 
+- **[ICCAD]** **[Accelerating garbage collection for 3D MLC flash memory with SLC blocks](https://ieeexplore.ieee.org/abstract/document/8942097)** in Proceedings of 38th International Conference on Computer-Aided Design (ICCAD), 2019.
+  <br/>Shuai Li, Wei Tong, Jingning Liu, Bing Wu, Yazhi Feng.
+  
+
 # Journal Paper
 ---
 ## **2021**
