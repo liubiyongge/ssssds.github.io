@@ -118,25 +118,26 @@ title: "Publications"
   <br/>Yazhi Feng, Dan Feng, Wei Tong, Jingning Liu, Shuai Li.
 - **[TCAD]** **[A Low-Overhead Encoding Scheme to Extend the Lifetime of Nonvolatile Memories](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8941096)** is accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
 <br/>Dan Feng, Jie Xu, Yu Hua, Wei Tong, Jingning Liu, Chunyan Li, Yiran Chen.
-- **[TED]** **[Design and Analysis of Address-Adaptive Read Reference Settings for Multilevel Cell Cross-Point Memory Arrays]()** is published in IEEE Transactions on Electron Devices(TED), 2019.
+- **[TED]** **[Design and Analysis of Address-Adaptive Read Reference Settings for Multilevel Cell Cross-Point Memory Arrays]()** is published in IEEE Transactions on Electron Devices (TED), 2019.
 <br/>Chengning Wang, Dan Feng, Wei Tong, Jingning Liu, Bing Wu, Wei Zhao, Yang Zhang.
 - **[TODAES]** **[Cross-point resistive memory: Nonideal properties and solutions]()** is accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES), 2019
 <br/>Chengning Wang, Dan Feng, Wei Tong, Jingning Liu, Zheng Li, Jiayi Chang, Yang Zhang, Bing Wu, Jie Xu, Wei Zhao, Yilin Li, Ruoxi Ren.
 
 ## **2018**
 
-- **[TC]** **[NICO: Reducing Software-Transparent Crash Consistency Cost for Persistent Memory](https://ieeexplore.ieee.org/abstract/document/8496805)** is accepted by IEEE Transactions on Computers 2018
+- **[TC]** **[NICO: Reducing Software-Transparent Crash Consistency Cost for Persistent Memory](https://ieeexplore.ieee.org/abstract/document/8496805)** is accepted by IEEE Transactions on Computers (TC), 2018
 <br/>Xueliang Wei, Dan Feng, Wei Tong, Jingning LIU, Liuqing Ye.
 - **[TACO]** **[CACF: A Novel Circuit Architecture Co-optimization Framework for Improving Performance](https://dl.acm.org/doi/abs/10.1145/3195799)** is accepted by ACM Transactions on Architecture and Code Optimization (TACO), 2018.
 <br/>Yang Zhang, Dan Feng, Wei Tong, Yu Hua, Jingning Liu, Zhipeng Tan, Chengning Wang, Bing Wu, Zheng Li, and Gaoxiang Xu.
 
 ## **2017**
-- **[TPDS]** **[I/O Stack Optimization for Efficient and Scalable Access in FCoE-Based SAN Storage](https://ieeexplore.ieee.org/abstract/document/7882635)** is accepted by IEEE Transactions on Parallel and Distributed Systems 2017.
+- **[TPDS]** **[I/O Stack Optimization for Efficient and Scalable Access in FCoE-Based SAN Storage](https://ieeexplore.ieee.org/abstract/document/7882635)** is accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS), 2017.
 <br/>Yunxiang Wu, Fang Wang, Yu Hua, Dan Feng, Yuchong Hu, Wei Tong, Jingning Liu, Dan He.
-- **[TC]** **[Time and Space-Efficient Write Parallelism in PCM by Exploiting Data Patterns](https://ieeexplore.ieee.org/abstract/document/7870591)** is accepted by IEEE Transactions on Computers(TC) 2017.
+- **[TC]** **[Time and Space-Efficient Write Parallelism in PCM by Exploiting Data Patterns](https://ieeexplore.ieee.org/abstract/document/7870591)** is accepted by IEEE Transactions on Computers (TC) 2017.
 <br/>Zheng Li, Fang Wang, Dan Feng, Yu Hua, Jingning Liu, Wei Tong, Yu Chen, Salah S. Harb.
+
 ## **2016**
-- **[TACO]** **[MaxPB: Accelerating PCM Write by Maximizing the Power Budget Utilization](https://dl.acm.org/doi/abs/10.1145/3012007)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO) 2016.
+- **[TACO]** **[MaxPB: Accelerating PCM Write by Maximizing the Power Budget Utilization](https://dl.acm.org/doi/abs/10.1145/3012007)** is accepted by ACM Transactions on Architecture and Code Optimization (TACO) 2016.
 <br/>Zheng Li, Fang Wang, Dan Feng, Yu Hua, Jingning Liu, and Wei Tong.
 
 ## **2015**
