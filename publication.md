@@ -59,11 +59,11 @@ title: "Publications"
 <br/>Jie Xu, Dan Feng, Yu Hua, Wei Tong, Jingning Liu, Chunyan Li, Zheng Li.
 
 ## **2017**
-- **[ICCD]** **[Improving Performance of TLC RRAM with Compression-Ratio-Aware Data Encoding](https://ieeexplore.ieee.org/abstract/document/8119272)** is accepted by 2017 IEEE International Conference on Computer Design (ICCD)
+- **[ICCD]** **[Improving Performance of TLC RRAM with Compression-Ratio-Aware Data Encoding](https://ieeexplore.ieee.org/abstract/document/8119272)** is accepted by IEEE International Conference on Computer Design (ICCD).
 <br/>Jie Xu, Dan Feng, Yu Hua, Wei Tong, Jingning Liu, Chunyan Li, Wen Zhou.
-- **[ICCD]** **[DAWS: Exploiting Crossbar Characteristics for Improving Write Performance of High Density Resistive Memory](https://ieeexplore.ieee.org/abstract/document/8119223)** is accepted by 2017 IEEE International Conference on Computer Design (ICCD).
+- **[ICCD]** **[DAWS: Exploiting Crossbar Characteristics for Improving Write Performance of High Density Resistive Memory](https://ieeexplore.ieee.org/abstract/document/8119223)** is accepted by IEEE International Conference on Computer Design (ICCD).
 <br/>Chengning Wang, Dan Feng, Jingning Liu, Wei Tong, Bing Wu, Yang Zhang.
-- **[ICCD]** **[Encoding Separately: An Energy-Efficient Write Scheme for MLC STT-RAM](https://ieeexplore.ieee.org/abstract/document/8119273)** is accepted by 2017 IEEE International Conference on Computer Design (ICCD).
+- **[ICCD]** **[Encoding Separately: An Energy-Efficient Write Scheme for MLC STT-RAM](https://ieeexplore.ieee.org/abstract/document/8119273)** is accepted by IEEE International Conference on Computer Design (ICCD).
 <br/>Jie Xu, Dan Feng, Wei Tong, Jingning Liu, Wen Zhou.
 - **[ICCD]** **[Using Disturbance Compensation and Data Clustering (DC)2 to Improve Reliability and Performance of 3D MLC Flash Memory](https://ieeexplore.ieee.org/abstract/document/8119271)** is accepted by IEEE International Conference on Computer Design, (ICCD).
 <br/>Yazhi Feng, Dan Feng, Wei Tong, Yu Jiang, Chuanqi Liu.
