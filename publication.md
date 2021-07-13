@@ -83,12 +83,15 @@ title: "Publications"
 <br/>Yunxiang Wu, Fang Wang, Yu Hua, Dan Feng, Yuchong Hu, Jingning Liu, Wei Tong.
 - **[NVMSA]** **[A software-defined fusion storage system for PCM and NAND flash](https://ieeexplore.ieee.org/abstract/document/7304361)** is accepted by IEEE Non-Volatile Memory System and Applications Symposium (NVMSA) 2015.
 <br/>Zheng Li, Shuangwu Zhang, Jingning Liu, Wei Tong, Yu Hua, Dan Feng, Chenye Yu.
+
 ## **2014**
 - **[CCBD]** **[DT-GC: Adaptive Garbage Collection with Dynamic Thresholds for SSDs](https://ieeexplore.ieee.org/abstract/document/7062893/)** is accepted by 2014 International Conference on Cloud Computing and Big Data(CCBD) 2014.
 <br/>Yi Qin, Dan Feng, Jingning Liu, Wei Tong, and Zhiming Zhu.
+
 ## **2013**
 - **[NAS]** **[A Parity Scheme to Enhance Reliability for SSDs.](https://ieeexplore.ieee.org/abstract/document/6310956)** is accepted by 2012 IEEE Seventh International Conference on Networking, Architecture, and Storage(NAS) 2012.
 <br/>Yi Qin, Dan Feng, Jingning Liu, Wei Tong, Yang Hu, and Zhiming Zhu.
+
 ## **2010**
 - **[MSST]** **[Achieving page-mapping FTL performance at block-mapping FTL cost by hiding address translation](https://ieeexplore.ieee.org/abstract/document/5496970)** is accepted by 2010 IEEE 26th Symposium on Mass Storage Systems and Technologies (MSST) 2010
 <br/>Yang Hu, Hong Jiang, Dan Feng, Lei Tian, Shuping Zhang, Jingning Liu, Wei Tong, Yi Qin, and Liuzheng Wang.
