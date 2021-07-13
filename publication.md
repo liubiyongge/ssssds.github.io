@@ -45,6 +45,10 @@ title: "Publications"
 <br/>Shuai Li, Wei Tong, Jingning Liu, Bing Wu, Yazhi Feng.
 - **[ISPA]** **[Asymmetric-reram: A low latency and high reliability crossbar resistive memory architecture](https://ieeexplore.ieee.org/abstract/document/8672326)** in IEEE International Symposium on Parallel and Distributed  Processing with Applications, 2019.
 <br/>Yang Zhang, Dan Feng, Zhipeng Tan, Jingning Liu, Wei Tong, Chengning Wang.
+- **[NAS]** **[DV-NVLLC: Efficiently guaranteeing crash consistency in persistent memory via dynamic versioning]()** in 14th International Conference on Networking, Architecture, and Storage (NAS), 2019.
+<br/>Kai Tang, Wei Tong, Jun Ma, Bo Liu.
+- **[NAS]** **[Per-File Secure Deletion for Flash-Based Solid State Drives]()** in 14th International Conference on Networking, Architecture, and Storage (NAS), 2019.
+<br/>Tianran Xiao, Wei Tong, Xia Lei, Jingning Liu, Bo Liu.
 
 ## **2018**
 - **[ICCAD]** **[Aliens: A Novel Hybrid Architecture for Resistive Random-Access Memory](https://dl.acm.org/doi/abs/10.1145/3240765.3240776)** is accepted by Proceedings of the International Conference on Computer-Aided Design (ICCAD), 2018.
@@ -79,21 +83,21 @@ title: "Publications"
 <br/>Zheng Li, Fang Wang, Yu Hua, Wei Tong, Jingning Liu, Yu Chen, Dan Feng.
 
 ## **2015**
-- **[ICPP]** **[Fast FCoE: An Efficient and Scale-Up Multi-core Framework for FCoE-Based SAN Storage Systems](https://ieeexplore.ieee.org/abstract/document/7349588/)** is accepted by International Conference on Parallel Processing(ICPP) 2015.
+- **[ICPP]** **[Fast FCoE: An Efficient and Scale-Up Multi-core Framework for FCoE-Based SAN Storage Systems](https://ieeexplore.ieee.org/abstract/document/7349588/)** is accepted by International Conference on Parallel Processing (ICPP), 2015.
 <br/>Yunxiang Wu, Fang Wang, Yu Hua, Dan Feng, Yuchong Hu, Jingning Liu, Wei Tong.
-- **[NVMSA]** **[A software-defined fusion storage system for PCM and NAND flash](https://ieeexplore.ieee.org/abstract/document/7304361)** is accepted by IEEE Non-Volatile Memory System and Applications Symposium (NVMSA) 2015.
+- **[NVMSA]** **[A software-defined fusion storage system for PCM and NAND flash](https://ieeexplore.ieee.org/abstract/document/7304361)** is accepted by IEEE Non-Volatile Memory System and Applications Symposium (NVMSA), 2015.
 <br/>Zheng Li, Shuangwu Zhang, Jingning Liu, Wei Tong, Yu Hua, Dan Feng, Chenye Yu.
 
 ## **2014**
-- **[CCBD]** **[DT-GC: Adaptive Garbage Collection with Dynamic Thresholds for SSDs](https://ieeexplore.ieee.org/abstract/document/7062893/)** is accepted by 2014 International Conference on Cloud Computing and Big Data(CCBD) 2014.
+- **[CCBD]** **[DT-GC: Adaptive Garbage Collection with Dynamic Thresholds for SSDs](https://ieeexplore.ieee.org/abstract/document/7062893/)** is accepted by International Conference on Cloud Computing and Big Data(CCBD) 2014.
 <br/>Yi Qin, Dan Feng, Jingning Liu, Wei Tong, and Zhiming Zhu.
 
 ## **2013**
-- **[NAS]** **[A Parity Scheme to Enhance Reliability for SSDs.](https://ieeexplore.ieee.org/abstract/document/6310956)** is accepted by 2012 IEEE Seventh International Conference on Networking, Architecture, and Storage(NAS) 2012.
+- **[NAS]** **[A Parity Scheme to Enhance Reliability for SSDs.](https://ieeexplore.ieee.org/abstract/document/6310956)** is accepted by IEEE Seventh International Conference on Networking, Architecture, and Storage (NAS), 2012.
 <br/>Yi Qin, Dan Feng, Jingning Liu, Wei Tong, Yang Hu, and Zhiming Zhu.
 
 ## **2010**
-- **[MSST]** **[Achieving page-mapping FTL performance at block-mapping FTL cost by hiding address translation](https://ieeexplore.ieee.org/abstract/document/5496970)** is accepted by 2010 IEEE 26th Symposium on Mass Storage Systems and Technologies (MSST) 2010
+- **[MSST]** **[Achieving page-mapping FTL performance at block-mapping FTL cost by hiding address translation](https://ieeexplore.ieee.org/abstract/document/5496970)** is accepted by IEEE 26th Symposium on Mass Storage Systems and Technologies (MSST), 2010.
 <br/>Yang Hu, Hong Jiang, Dan Feng, Lei Tian, Shuping Zhang, Jingning Liu, Wei Tong, Yi Qin, and Liuzheng Wang.
 
 
