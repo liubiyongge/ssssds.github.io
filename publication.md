@@ -109,6 +109,9 @@ title: "Publications"
 ---
 ## **2021**
 
+- **[JSA]** **[QBLKe: Host-side flash translation layer management for Open-Channel SSDs](https://www.sciencedirect.com/science/article/pii/S1383762121001624)** in Journal of Systems Architecture (JSA), 2021.
+<br/>Chengning Wang, Dan Feng, Wei Tong, Yu Hua, Jingning Liu, Bing Wu, Wei Zhao, Linghao Song, Yang Zhang, Jie Xu, Xueliang Wei, Yiran Chen.
+
 ## **2020**
 - **[TCAD]** **[Improving Multilevel Writes on Vertical 3D Cross-Point Resistive Memory](https://dl.acm.org/doi/abs/10.1145/3404397.3404461)** accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
 <br/>Chengning Wang, Dan Feng, Wei Tong, Yu Hua, Jingning Liu, Bing Wu, Wei Zhao, Linghao Song, Yang Zhang, Jie Xu, Xueliang Wei, Yiran Chen.
