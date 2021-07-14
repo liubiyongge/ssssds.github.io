@@ -7,7 +7,7 @@ title: "Publications"
 
 ---
 ## **2021**
-- **[ICCAD]** **[MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM](https://ieeexplore.ieee.org/abstract/document/8942097)** is accepted by 40th International Conference on Computer-Aided Design (ICCAD), 2021.
+- **[ICCAD]** **[MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM]()** is accepted by 40th International Conference on Computer-Aided Design (ICCAD), 2021.
   <br/>Wei Zhao, Dan Feng, Yu Hua, Wei Tong, Jingning Liu, Jie Xu, Chunyan Li, Gaoxiang Xu and Yiran Chen.
 - **[LCTES]** **[Better Atomic Writes by Exposing the Flash Out-Of-Band Area to File Systems](https://dl.acm.org/doi/abs/10.1145/3461648.3463843)** in Proceedings of the 22nd ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES), 2021. [[code](https://github.com/WNLO-DSAL/NBStack)]
   <br/>Hongwei Qin, Dan Feng, Wei Tong, Yutong Zhao, Sheng Qiu, Fei Liu, Shu Li.
