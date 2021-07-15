@@ -38,15 +38,12 @@ url: /
         margin: 0;
         list-style:none; 
     }
-
     #carousel > ul{
          animation: switch 10s ease 1s infinite alternate; /* 设定动画播放 */
     }
-
     #carousel > ul:hover{
          animation-play-state: paused; /* 暂停动画 */
     }
-
     @keyframes switch{ /* 制定动画规则 */
         0%,13%{
             left: 0;
