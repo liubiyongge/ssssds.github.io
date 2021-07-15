@@ -64,16 +64,16 @@ url: /
     <div id="carousel">
         <ul> <!-- 图片容器 -->
             <li>
-                <img src="http://www.sdust.edu.cn/__local/9/7A/B1/F29B84DEF72DD329997E8172ABA_664BA3EF_32466.jpg">
+                <img src="http://www.sdust.edu.cn/__local/9/7A/B1/F29B84DEF72DD329997E8172ABA_664BA3EF_32466.jpg" width="50%" height="50%">
             </li>
             <li>
-                <img src="http://www.sdust.edu.cn/__local/B/F3/E4/693AB931C9FFB84646970D53BFE_C506394A_4282CA.jpg">
+                <img src="http://www.sdust.edu.cn/__local/B/F3/E4/693AB931C9FFB84646970D53BFE_C506394A_4282CA.jpg" width="50%" height="50%">
             </li>
             <li>
-                <img src="http://www.sdust.edu.cn/__local/F/7A/AA/E1459849AA8AB0C89854A41BD41_BF3BD857_BC0D8.jpg">
+                <img src="http://www.sdust.edu.cn/__local/F/7A/AA/E1459849AA8AB0C89854A41BD41_BF3BD857_BC0D8.jpg" width="50%" height="50%">
             </li>
             <li>
-                <img src="http://www.sdust.edu.cn/__local/1/95/CB/EDC1450B8FD1B8A25FAAC726AA4_A36D4253_16C91.jpg">
+                <img src="http://www.sdust.edu.cn/__local/1/95/CB/EDC1450B8FD1B8A25FAAC726AA4_A36D4253_16C91.jpg" width="50%" height="50%">
             </li>
         </ul>
     </div>
