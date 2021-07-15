@@ -10,7 +10,7 @@ title: "Group Members"
 
 ## Postdoc
 
-<center>    <img style="border-radius: 0.3125em;  box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"  height=200   src="https://www.hualigs.cn/image/60efc1bdc1e5f.jpg">    <br>    <a href="https://ieeexplore.ieee.org/author/37086250505">Chengning Wang</a></div> </center>
+<center>    <img style="border-radius: 0.3125em;  box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"  height=200   src="https://www.hualigs.cn/image/60efc1bdc1e5f.jpg">    <br>    <a href="https://ieeexplore.ieee.org/author/37086250505">Chengning Wang</a> </center>
 
 ## PhD Students
 
