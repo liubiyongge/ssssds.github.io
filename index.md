@@ -6,8 +6,7 @@ url: /
 ---
 #### **Introduction to SSS&SDS Group**
 
-<!doctype html>
-<html>
+
 
 <head>
     <meta charset="utf-8">
@@ -123,7 +122,6 @@ url: /
 
 </body>
 
-</html>
 <script>
     var imgIndex = 0;
     var imgDivArr = document.getElementsByClassName("imgdiv");
