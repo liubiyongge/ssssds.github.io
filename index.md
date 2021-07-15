@@ -6,79 +6,150 @@ url: /
 ---
 #### **Introduction to SSS&SDS Group**
 
+<!doctype html>
 <html>
+
 <head>
-    <title>轮播图</title>
     <meta charset="utf-8">
-    <meta name="referrer" content="no-referrer">
+    <title>picplay</title>
+    <style>
+        #divout {
+            max-width: 1000px;
+            position: relative;
+            margin: 0 auto;
+        }
+
+        .imgdiv img {
+            width: 100%;
+        }
+
+        .imgdiv {
+            display: none;
+        }
+
+        .dotdiv {
+            text-align: center;
+            position: absolute;
+            width: 100%;
+            bottom: -30px;
+        }
+
+        .dot {
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            background: #bbbbbb;
+            border-radius: 10px;
+            margin: 0 12px;
+        }
+
+        .title {
+            font-size: 18px;
+            color: #f2f2f2;
+            position: absolute;
+            text-align: center;
+            font-weight: 700;
+            width: 100%;
+            bottom: 10px;
+        }
+
+        .active {
+            background-color: #717171;
+        }
+
+        #arrow {
+            position: absolute;
+            top: 50%;
+            margin-top: -30px;
+            width: 100%;
+            opacity: .3;
+            transition: opacity 2s;
+        }
+
+        #divout:hover #arrow {
+            opacity: .9;
+        }
+
+        #arrow img {
+            cursor: pointer;
+        }
+
+        .imgdiv {
+            animation: fade 1.5s;
+        }
+
+        @keyframes fade {
+            from {
+                opacity: .3;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
 </head>
-<link rel="stylesheet" type="text/css" href="https://at.alicdn.com/t/font_1582902_u0zm91pv15i.css">
-<style type="text/css">
-    body{
-        margin: 0;
-        padding: 0px;
-    }
-    #carousel{
-        margin: auto; /* 居中 */
-        width: 600px; /* 设置宽度 */
-        position: relative; /* 相对定位 */
-        overflow: hidden; /* 超出隐藏 */
-        height: 300px;
-    }
-    #carousel img{
-        width: 600px; /* 设定大小 按比例缩放 */
-    }
-    #carousel > ul {
-        display: flex; /* 图片处理为一行 */
-        position: absolute; /* 设置绝对定位，实现相对于#carousel的绝对定位 */
-    }
-    #carousel > ul,
-    #carousel > ul > li{
-        padding: 0;
-        margin: 0;
-        list-style:none; 
-    }
-    #carousel > ul{
-         animation: switch 10s ease 1s infinite alternate; /* 设定动画播放 */
-    }
-    #carousel > ul:hover{
-         animation-play-state: paused; /* 暂停动画 */
-    }
-    @keyframes switch{ /* 制定动画规则 */
-        0%,13%{
-            left: 0;
-        }
-        27%,41%{
-            left: -600px;
-        }
-        55%,69%{
-            left: -1200px;
-        }
-        83%,100% {
-            left: -1800px;
-        }
-    }
-</style>
+
 <body>
-    <!-- 轮播图容器 -->
-    <div id="carousel">
-        <ul> <!-- 图片容器 -->
-            <li>
-                <img src="http://www.sdust.edu.cn/__local/9/7A/B1/F29B84DEF72DD329997E8172ABA_664BA3EF_32466.jpg" width="50%" height="50%">
-            </li>
-            <li>
-                <img src="http://www.sdust.edu.cn/__local/B/F3/E4/693AB931C9FFB84646970D53BFE_C506394A_4282CA.jpg" width="50%" height="50%">
-            </li>
-            <li>
-                <img src="http://www.sdust.edu.cn/__local/F/7A/AA/E1459849AA8AB0C89854A41BD41_BF3BD857_BC0D8.jpg" width="50%" height="50%">
-            </li>
-            <li>
-                <img src="http://www.sdust.edu.cn/__local/1/95/CB/EDC1450B8FD1B8A25FAAC726AA4_A36D4253_16C91.jpg" width="50%" height="50%">
-            </li>
-        </ul>
+    <!--    div#divout>(div.imgdiv>img+div.title{标题文本$})*4 +(div.dotdiv>span.dot*4)-->
+    <div id="divout">
+        <div class="imgdiv" style="display: block">
+            <img src="https://upload-images.jianshu.io/upload_images/24975120-92f6848929b0986e.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1000/format/webp" alt="">
+            <div class="title">标题文本1</div>
+        </div>
+        <div class="imgdiv">
+            <img src="https://upload-images.jianshu.io/upload_images/24975120-80d57cb4eb3adf52.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1000/format/webp" alt="">
+            <div class="title">标题文本2</div>
+        </div>
+        <div class="imgdiv">
+            <img src="https://upload-images.jianshu.io/upload_images/24975120-eb849644d531f773.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1000/format/webp" alt="">
+            <div class="title">标题文本3</div>
+        </div>
+        <div class="imgdiv">
+            <img src="https://upload-images.jianshu.io/upload_images/24975120-4d6463d1a2046b90.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1000/format/webp" alt="">
+            <div class="title">标题文本4</div>
+        </div>
+        <div class="dotdiv">
+            <span class="dot active"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+        </div>
+        <div id="arrow">
+            <img src="https://upload-images.jianshu.io/upload_images/24975120-26bbb7165d5c274e.png?imageMogr2/auto-orient/strip|imageView2/2/w/178/format/webp" alt="" width="60" onClick="picplay(false)">
+            <img src="https://upload-images.jianshu.io/upload_images/24975120-2d3152494090caaf.png?imageMogr2/auto-orient/strip|imageView2/2/w/178/format/webp" width="60" alt="" align="right" onClick="picplay(true)">
+        </div>
     </div>
+
 </body>
+
 </html>
+<script>
+    var imgIndex = 0;
+    var imgDivArr = document.getElementsByClassName("imgdiv");
+    var dotArr = document.getElementsByClassName("dot");
+    /**
+     *  播放图片
+     *  参数r：是否正放，若为true，正放。若为false，倒放
+     */
+    function picplay(r) {
+        for (let i = 0; i < imgDivArr.length; i++) {
+            imgDivArr[i].style.display = "none";
+            dotArr[i].className = "dot";
+        }
+        if (r) {
+            imgIndex++;
+            imgIndex = (imgIndex >= imgDivArr.length) ? 0 : imgIndex;
+        } else {
+            imgIndex--;
+            imgIndex = (imgIndex < 0) ? imgDivArr.length - 1 : imgIndex;
+        }
+        imgDivArr[imgIndex].style.display = "block";
+        dotArr[imgIndex].className = "dot active";
+    }
+    setInterval(picplay, 3000, true);
+
+</script>
 
 #### **News**
 
