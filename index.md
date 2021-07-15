@@ -6,7 +6,6 @@ url: /
 ---
 #### **Introduction to SSS&SDS Group**
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>轮播图</title>
