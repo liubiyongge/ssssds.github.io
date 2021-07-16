@@ -8,12 +8,14 @@ css: ["categories.css"]
 
 #### **Non-Volatile Memories**
  - NVM Security: Xueliang Wei, Tianran Xiao.
- - Non-ideal Property and Reliability Optimization: Bing Wu, Chengning Wang.
+ - Non-ideal Property Optimization: Bing Wu, Chengning Wang.
  - Processing In Memory: Bing Wu, Chengning Wang, Heng Zhou, Huan Cheng, Xufei Pan, Jinpeng Liu.
  - Approximate Storage: Wei Zhao.
  - Compression and Encoding: Wei Zhao.
  - Persistant Memory System: Xueliang Wei.
  - Data Stucture in NVM: Peihao Li, Kunhua Mo.
+ - Memristive Nanodevices and Arrays: Chengning Wang.
+ - Three-dimensional Integrated Memristive Systems: Chengning Wang.
 
 #### **SSD**
  - Key-value Storage: Tianqi Zhan, Minghao Yang, Denghui Wu.
