@@ -45,7 +45,7 @@ url: /
 
         .title {
             font-size: 18px;
-            color: #f2f2f2;
+            color: #0099FF;
             position: absolute;
             text-align: center;
             font-weight: 700;
@@ -116,8 +116,8 @@ url: /
             <span class="dot"></span>
         </div>
         <div id="arrow">
-            <img src="https://upload-images.jianshu.io/upload_images/24975120-26bbb7165d5c274e.png?imageMogr2/auto-orient/strip|imageView2/2/w/178/format/webp" alt="" width="60" onClick="picplay(false)">
-            <img src="https://upload-images.jianshu.io/upload_images/24975120-2d3152494090caaf.png?imageMogr2/auto-orient/strip|imageView2/2/w/178/format/webp" width="60" alt="" align="right" onClick="picplay(true)">
+            <img src="/assets/img/left.png" alt="" width="60" onClick="picplay(false)">
+            <img src="/assets/img/right.png" width="60" alt="" align="right" onClick="picplay(true)">
         </div>
     </div>
 
@@ -146,7 +146,7 @@ url: /
         imgDivArr[imgIndex].style.display = "block";
         dotArr[imgIndex].className = "dot active";
     }
-    setInterval(picplay, 3000, true);
+    setInterval(picplay, 6000, true);
 
 </script>
 
