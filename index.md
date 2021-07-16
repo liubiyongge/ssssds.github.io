@@ -7,7 +7,7 @@ url: /
 #### **Welcome to SSS&SDS Group!**
 SSS&SDS group is led by Dr. [Wei Tong](http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm). SSS means Solid State Storage, while SDS indicates Software Defined Storage. We aim at building high performacne and energy-efficient systems with emerging devices and technologies (e.g., non-volatile memories, key-value storage, solid state disk, high performance compression, cloud object store).
 
-Our group has published several paperson on international conferences like ISCA, DAC, DATE, ICCAD, ICPP, MSST, ICCD, etc. as well as some top journals including IEEE TC, IEEE TCAD, IEEE TED, ACM TACO, JSA, etc.
+Our group has published several papers on international conferences like ISCA, DAC, DATE, ICCAD, ICPP, MSST, ICCD, etc. as well as some top journals including IEEE TC, IEEE TCAD, IEEE TED, ACM TACO, JSA, etc.
 
 
 <head>
@@ -151,6 +151,8 @@ Our group has published several paperson on international conferences like ISCA,
     setInterval(picplay, 6000, true);
 
 </script>
+
+
 
 **We are looking for motivated Undergraduates and Master students to join the team, please feel free to contact me. (Email: tongwei@hust.edu.cn)**
 
