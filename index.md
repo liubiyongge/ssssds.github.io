@@ -93,19 +93,19 @@ url: /
     <!--    div#divout>(div.imgdiv>img+div.title{标题文本$})*4 +(div.dotdiv>span.dot*4)-->
     <div id="divout">
         <div class="imgdiv" style="display: block">
-            <img src="/assets/img/group.jpg"  alt="">
-            <div class="title">标题文本1</div>
+            <img src="/assets/img/group1.jpg" height="80%" width="80%" alt="">
+            <div class="title">Group Party</div>
         </div>
         <div class="imgdiv">
-            <img src="/assets/img/group.jpg" alt="">
-            <div class="title">标题文本2</div>
+            <img src="/assets/img/award.png" height="80%" width="80% alt="">
+            <div class="title">OlympusMons Award</div>
         </div>
         <div class="imgdiv">
-            <img src="/assets/img/group.jpg" alt="">
+            <img src="/assets/img/group1.jpg" height="80%" width="80% alt="">
             <div class="title">标题文本3</div>
         </div>
         <div class="imgdiv">
-            <img src="/assets/img/group.jpg" alt="">
+            <img src="/assets/img/group1.jpg" height="80%" width="80% alt="">
             <div class="title">标题文本4</div>
         </div>
         <div class="dotdiv">
