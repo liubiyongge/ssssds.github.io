@@ -108,8 +108,8 @@ Our group has published several papers on international conferences like ISCA, D
             <div class="title">ICCD 2019</div>
         </div>
         <div class="imgdiv">
-            <img src="/assets/img/group1.jpg" height="80%" width="80%" alt="">
-            <div class="title">标题文本4</div>
+            <img src="/assets/img/ICCD17.jpg" height="80%" width="80%" alt="">
+            <div class="title">ICCD 2017</div>
         </div>
         <div class="dotdiv">
             <span class="dot active"></span>
