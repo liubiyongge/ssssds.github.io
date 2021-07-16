@@ -151,7 +151,7 @@ title: "Group Members"
 ### Graduated
 
 2021:
-> Chengning Wang
+> Chengning Wang (HUST)
 
 2020:
 > Jie Xu (Huawei)
