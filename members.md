@@ -34,17 +34,17 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
-                        <a href="https://ieeexplore.ieee.org/author/37086029868">Dr.Bing Wu</a>
+                        <a href="https://ieeexplore.ieee.org/author/37086029868">Bing Wu</a>
                     </div>
                 </td>
                 <td>
                     <div style="text-align:center">
-                        <a href="https://ieeexplore.ieee.org/author/37086938196">Dr.Xueliang Wei</a>
+                        <a href="https://ieeexplore.ieee.org/author/37086938196">Xueliang Wei</a>
                     </div>
                 </td>
                 <td>
                     <div style="text-align:center">
-                        <a href="https://ieeexplore.ieee.org/author/37086836859">Dr.Hongwei Qin</a>
+                        <a href="https://ieeexplore.ieee.org/author/37086836859">Hongwei Qin</a>
                     </div>
                 </td>                 
             </tr>
@@ -62,17 +62,17 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
-                        <a href="https://thiszw.top/">Dr.Wei Zhao</a>
+                        <a href="https://thiszw.top/">Wei Zhao</a>
                     </div>
                 </td>   
                 <td>
                     <div style="text-align:center">
-                        <p>Dr.Tianqi Zhan</p>
+                        <p>Tianqi Zhan</p>
                     </div>
                 </td>
                 <td>
                     <div style="text-align:center">
-                        <p>Dr.Heng Zhou</p>
+                        <p>Heng Zhou</p>
                     </div>
                 </td>                   
             </tr>
@@ -90,19 +90,31 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
-                        <p>Dr.Huan Cheng</p>
+                        <p>Huan Cheng</p>
                     </div>
                 </td>
                 <td>
                     <div style="text-align:center">
-                        <p>Dr.Weilin Zhu</p>
+                        <p>Weilin Zhu</p>
                     </div>
                 </td> 
                 <td>
                     <div style="text-align:center">
-                        <p>Dr.Bo Ding</p>
+                        <p>Bo Ding</p>
                     </div>
                 </td>                   
+            </tr>
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc741af176.jpg" height="200" width="150"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Jinpeng Liu</p>
+                    </div>
+                </td>               
             </tr>
         </tbody>
 </table>
@@ -124,12 +136,12 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
-                        <p>Dr.Yu Chen</p>
+                        <p>Yu Chen</p>
                     </div>
                 </td>
                 <td>
                     <div style="text-align:center">
-                        <a href="https://yujinyu.site">Dr.Jinyu Yu</a>
+                        <a href="https://yujinyu.site">Jinyu Yu</a>
                     </div>
                 </td>                
             </tr>
