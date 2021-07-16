@@ -5,7 +5,7 @@ toc: true
 url: /
 ---
 #### **Welcome to SSS&SDS Group!**
-SSS&SDS group is led by Dr. [Wei Tong](http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm). SSS means Solid State Storage, while SDS indicates Software Defined Storage. We aim at building high performacne and energy-efficient systems with emerging devices and technologies (e.g., non-volatile memories, key-value storage, solid state disk, high performance compression, cloud object store).
+SSS&SDS group is led by Dr. [Wei Tong](http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm). SSS means Solid State Storage, while SDS indicates Software Defined Storage. We aim at building high performance and energy-efficient systems with emerging devices and technologies (e.g., non-volatile memories, key-value storage, solid-state drive, high performance compression, cloud object store).
 
 Our group has published several papers on international conferences like ISCA, DAC, DATE, ICCAD, ICPP, MSST, ICCD, LCTES, etc. as well as some top journals including IEEE TC, IEEE TCAD, IEEE T-ED, ACM TACO, ACM TODAES, JSA, etc.
 
@@ -24,18 +24,18 @@ Our group has published several papers on international conferences like ISCA, D
         .imgdiv img {
             width: 100%;
         }
-
+    
         .imgdiv {
             display: none;
         }
-
+    
         .dotdiv {
             text-align: center;
             position: absolute;
             width: 100%;
             bottom: -30px;
         }
-
+    
         .dot {
             width: 16px;
             height: 16px;
@@ -44,7 +44,7 @@ Our group has published several papers on international conferences like ISCA, D
             border-radius: 10px;
             margin: 0 12px;
         }
-
+    
         .title {
             font-size: 18px;
             color: #0099FF;
@@ -54,11 +54,11 @@ Our group has published several papers on international conferences like ISCA, D
             width: 100%;
             bottom: 10px;
         }
-
+    
         .active {
             background-color: #717171;
         }
-
+    
         #arrow {
             position: absolute;
             top: 50%;
@@ -67,24 +67,24 @@ Our group has published several papers on international conferences like ISCA, D
             opacity: .3;
             transition: opacity 2s;
         }
-
+    
         #divout:hover #arrow {
             opacity: .9;
         }
-
+    
         #arrow img {
             cursor: pointer;
         }
-
+    
         .imgdiv {
             animation: fade 1.5s;
         }
-
+    
         @keyframes fade {
             from {
                 opacity: .3;
             }
-
+    
             to {
                 opacity: 1;
             }
