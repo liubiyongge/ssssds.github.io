@@ -19,7 +19,7 @@ url: /
         }
 
         .imgdiv img {
-            width: 80%;
+            width: 100%;
         }
 
         .imgdiv {
