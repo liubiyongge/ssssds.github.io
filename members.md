@@ -232,9 +232,6 @@ title: "Group Members"
                 <td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62f1716d.jpg" height="200" width="150"></div>
                 </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc741af176.jpg" height="200" width="150"></div>
-                </td>
                  <td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62f1f5ca.jpg" height="200" width="150"></div>
                 </td>
@@ -245,11 +242,6 @@ title: "Group Members"
                         <p>Zuoxian Zhang</p>
                     </div>
                 </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Jinpeng Liu</p>
-                    </div>
-                </td> 
                 <td>
                     <div style="text-align:center">
                         <p>Kunhua Mo</p>
