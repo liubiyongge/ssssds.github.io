@@ -13,7 +13,7 @@ url: /
     <title>picplay</title>
     <style>
         #divout {
-            max-width: 1000px;
+            max-width: 500px;
             position: relative;
             margin: 0 auto;
         }
