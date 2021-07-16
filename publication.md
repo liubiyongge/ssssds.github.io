@@ -103,9 +103,9 @@ title: "Publications"
 <br/>Yang Hu, Hong Jiang, Dan Feng, Lei Tian, Shuping Zhang, Jingning Liu, Wei Tong, Yi Qin, and Liuzheng Wang.
 
 
-  
 
-# Journal Paper
+
+# Journal Article
 ---
 ## **2021**
 
