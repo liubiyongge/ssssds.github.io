@@ -15,9 +15,9 @@ css: ["categories.css"]
  - Persistant Memory System: Xueliang Wei.
  - Data Stucture in NVM: Peihao Li, Xufei Pan, Kunhua Mo.
 
-#### **Solid State Disk**
+#### **SSD**
  - Key-value Storage: Tianqi Zhan, Minghao Yang, Denghui Wu.
- - Flash Memory Reliability: Denghui Wu.
+ - Flash Memory: Denghui Wu, Tianqi Zhan, Weilin Zhu.
  - File System: Hongwei Qin, Bo Ding.
  - Open Channel SSD: Hongwei Qin.
 
