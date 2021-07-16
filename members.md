@@ -5,12 +5,12 @@ title: "Group Members"
 
 ## Teacher
 
-<center>    <img style="border-radius: 0.3125em; zoom:90%;   box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"  height=260     src="./assets/img/tong.jpg">    <br>    <div style="color:orange; border-bottom: 1px solid #d9d9d9;    display: inline-block;    color: #999;    padding: 2px;"><a href="http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm">Wei Tong</a></div> </center>
+<center>    <img style="border-radius: 0.3125em; zoom:90%;   box-shadow: 0 2px 4px 0 rgba (34,36,38,.12),0 2px 10px 0 rgba (34,36,38,.08);"  height=260     src="./assets/img/tong.jpg">    <br>    <div style="color:orange; border-bottom: 1px solid #d9d9d9;    display: inline-block;    color: #999;    padding: 2px;"><a href="http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm">Wei Tong</a></div> </center>
 
-
+<!-- 
 ## Postdoc
 
-<center>    <img style="border-radius: 0.3125em;  box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"  height=200   src="https://www.hualigs.cn/image/60efc1bdc1e5f.jpg">    <br>    <a href="https://ieeexplore.ieee.org/author/37086250505">Chengning Wang</a> </center>
+<center>    <img style="border-radius: 0.3125em;  box-shadow: 0 2px 4px 0 rgba (34,36,38,.12),0 2px 10px 0 rgba (34,36,38,.08);"  height=200   src="https://www.hualigs.cn/image/60efc1bdc1e5f.jpg">    <br>    <a href="https://ieeexplore.ieee.org/author/37086250505">Chengning Wang</a> </center> -->
 
 ## PhD Students
 
@@ -151,16 +151,16 @@ title: "Group Members"
 ### Graduated
 
 2021:
-> Chengning Wang（Postdoc in SSS&SDS Group）
+> Chengning Wang
 
 2020:
-> Jie Xu（Huawei）
+> Jie Xu (Huawei)
 
 2019:
-> Yang Zhang（Huawei） , Yazhi Feng（Huawei）
+> Yang Zhang (Huawei) , Yazhi Feng (Huawei)
 
 2018:
-> Zheng Li（Huawei） , Jianquan Zhang（Hubei University of Science and Technology）
+> Zheng Li (Huawei) , Jianquan Zhang (Hubei University of Science and Technology)
 
 
 
@@ -303,16 +303,16 @@ title: "Group Members"
 ### Graduated
 
 2021:
->Jie Yang（Intel） , Yufei Xiong （Byte Dance） ,  Ziwei Zhao（Tencent） ,  Qinian Liu（Alibaba） , Zike Wang（Meituan） , Junqing Qin（Huawei） , Bihan Li（Alibaba） ,  Kai Tang（Huawei）
+>Jie Yang (Intel) , Yufei Xiong  (Byte Dance) ,  Ziwei Zhao (Tencent) ,  Qinian Liu (Alibaba) , Zike Wang (Meituan) , Junqing Qin (Huawei) , Bihan Li (Alibaba) ,  Kai Tang (Huawei)
 
 2020:
->Xianpeng Wang（Huawei） , Mengye Peng（Alibaba） , Yutong Zhao（Huawei） , Junzhong Deng （） , Jiayi Chang（） , Jinlong Chen（Huawei）
+>Xianpeng Wang (Huawei) , Mengye Peng (Alibaba) , Yutong Zhao (Huawei) , Junzhong Deng  () , Jiayi Chang () , Jinlong Chen (Huawei)
 
 2019：
->Yilin Li（Alibaba） , Mingshun Yang（Baidu） , Shuai Li（Electric Power of HeNan）
+>Yilin Li (Alibaba) , Mingshun Yang (Baidu) , Shuai Li (Electric Power of HeNan)
 
 2014:
->Bowen Gong（Tencent）
+>Bowen Gong (Tencent)
 
 2009:
-> Lu Zhang（Inspur）
+> Lu Zhang (Inspur)
