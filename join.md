@@ -7,5 +7,5 @@ title: "Join Us"
 
 ## **Address Info**
 Optoelectronic Information Building, Room B508,
-Huazhong University of Science and Technology,
-Hongshan district, Wuhan, Hubei Province, China.
+<br/>Huazhong University of Science and Technology,
+<br/>Hongshan district, Wuhan, Hubei Province, China.
