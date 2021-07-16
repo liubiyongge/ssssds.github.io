@@ -207,7 +207,7 @@ title: "Group Members"
                 </td>   
                 <td>
                     <div style="text-align:center">
-                        <a pref="https://gasolly.github.io/">Xufei Pan</a>
+                        <a href="https://gasolly.github.io/">Xufei Pan</a>
                     </div>
                 </td>
                 <td>
