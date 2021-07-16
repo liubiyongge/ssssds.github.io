@@ -97,15 +97,15 @@ url: /
             <div class="title">Group Party</div>
         </div>
         <div class="imgdiv">
-            <img src="/assets/img/award.png" height="80%" width="80% alt="">
+            <img src="/assets/img/award.png" height="80%" width="80%" alt="">
             <div class="title">OlympusMons Award</div>
         </div>
         <div class="imgdiv">
-            <img src="/assets/img/group1.jpg" height="80%" width="80% alt="">
+            <img src="/assets/img/group1.jpg" height="80%" width="80%" alt="">
             <div class="title">标题文本3</div>
         </div>
         <div class="imgdiv">
-            <img src="/assets/img/group1.jpg" height="80%" width="80% alt="">
+            <img src="/assets/img/group1.jpg" height="80%" width="80%" alt="">
             <div class="title">标题文本4</div>
         </div>
         <div class="dotdiv">
