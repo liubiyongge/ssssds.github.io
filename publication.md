@@ -130,7 +130,7 @@ title: "Publications"
   <br/>Yazhi Feng, Dan Feng, Wei Tong, Jingning Liu, Shuai Li.
 - **[TCAD]** **[A Low-Overhead Encoding Scheme to Extend the Lifetime of Nonvolatile Memories](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8941096)** is accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
 <br/>Dan Feng, Jie Xu, Yu Hua, Wei Tong, Jingning Liu, Chunyan Li, Yiran Chen.
-- **[TED]** **[Design and Analysis of Address-Adaptive Read Reference Settings for Multilevel Cell Cross-Point Memory Arrays]()** is published in IEEE Transactions on Electron Devices (TED), 2019.
+- **[T-ED]** **[Design and Analysis of Address-Adaptive Read Reference Settings for Multilevel Cell Cross-Point Memory Arrays]()** is published in IEEE Transactions on Electron Devices (TED), 2019.
 <br/>Chengning Wang, Dan Feng, Wei Tong, Jingning Liu, Bing Wu, Wei Zhao, Yang Zhang.
 - **[TODAES]** **[Cross-point resistive memory: Nonideal properties and solutions]()** is accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES), 2019
 <br/>Chengning Wang, Dan Feng, Wei Tong, Jingning Liu, Zheng Li, Jiayi Chang, Yang Zhang, Bing Wu, Jie Xu, Wei Zhao, Yilin Li, Ruoxi Ren.
