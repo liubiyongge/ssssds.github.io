@@ -1,12 +1,12 @@
 ---
-layout: single
+layout: false
 title: "Home"
 toc: true
 url: /
 ---
 #### **Introduction to SSS&SDS Group**
 
-<iframe>
+
 
 <head>
     <meta charset="utf-8">
@@ -148,7 +148,7 @@ url: /
     setInterval(picplay, 3000, true);
 
 </script>
-</iframe>
+
 #### **News**
 
 - Our paper "MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM" is is accepted by [ICCAD 2021](https://iccad.com/index.php). Congratulations to [Wei Zhao](https://thiszw.top).  
