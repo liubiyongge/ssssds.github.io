@@ -1,5 +1,5 @@
 ---
-layout: false
+layout: default
 title: "Home"
 toc: true
 url: /
