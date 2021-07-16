@@ -14,6 +14,7 @@ url: /
     <style>
         #divout {
             max-width: 500px;
+            max-height: 300px;
             position: relative;
             margin: 0 auto;
         }
