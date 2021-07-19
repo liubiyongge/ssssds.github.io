@@ -15,7 +15,7 @@ css: ["categories.css"]
  - Persistant Memory System: Xueliang Wei.
  - Data Stucture in NVM: Peihao Li, Kunhua Mo.
  - Memristive Nanodevices and Arrays: Chengning Wang.
- - Three-dimensional Integrated Memristive Systems: Chengning Wang.
+ <!-- - Three-dimensional Integrated Memristive Systems: Chengning Wang. -->
 
 #### **SSD**
  - Key-value Storage: Tianqi Zhan, Minghao Yang, Denghui Wu.
