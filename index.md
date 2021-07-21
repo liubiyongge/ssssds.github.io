@@ -117,7 +117,7 @@ Our group has published several papers on international conferences like ISCA, D
         </div>
         <div class="imgdiv">
             <img src="/assets/img/2021.jpg" height="80%" width="80%" alt="">
-            <div class="title">Graduates of 2021</div>
+            <div class="title">Graduates in 2021</div>
         </div>
         <div class="dotdiv">
             <span class="dot active"></span>
