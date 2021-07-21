@@ -5,7 +5,7 @@ title: "Group Members"
 
 ## Teacher
 
-<center>    <img style="border-radius: 0.3125em; zoom:90%;   box-shadow: 0 2px 4px 0 rgba (34,36,38,.12),0 2px 10px 0 rgba (34,36,38,.08);"  height=260     src="./assets/img/tong.jpg">    <br>    <div style="color:orange; border-bottom: 1px solid #d9d9d9;    display: inline-block;    color: #999;    padding: 2px;"><a href="http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm">Wei Tong</a></div> </center>
+<center>    <img style="border-radius: 0.3125em; zoom:90%;   box-shadow: 0 2px 4px 0 rgba (34,36,38,.12),0 2px 10px 0 rgba (34,36,38,.08);"  height=260     src="./assets/img/tong_new.jpg">    <br>    <div style="color:orange; border-bottom: 1px solid #d9d9d9;    display: inline-block;    color: #999;    padding: 2px;"><a href="http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm">Wei Tong</a></div> </center>
 
 
 ## Postdoc
