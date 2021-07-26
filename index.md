@@ -169,6 +169,7 @@ Our group has published several papers on international conferences like ISCA, D
 #### **News**
 
 - Our paper "MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM" is accepted by [ICCAD 2021](https://iccad.com/index.php). Congratulations to [Wei Zhao](https://thiszw.top).  
+- Our paper "CERES: Container-Based Elastic Resource Management System for Mixed Workloads [ICPP 2021](https://oaciss.uoregon.edu/icpp21/). Congratulations to [Jinyu Yu](https://yujinyu.site). 
 - Our paper "Better atomic writes by exposing the flash out-of-band area to file systems" is accepted by [LCTES 2021](https://pldi21.sigplan.org/home/LCTES-2021#event-overview). Congratulations to Hongwei Qin.  
 - Our paper "Improving the energy efficency of STT-MRAM based approximate cache" is accepted by [DATE 2021](https://www.date-conference.com/). Congratulations to [Wei Zhao](https://thiszw.top).  
 - Our paper "MorLog: Morphable Hardware Logging for Atomic Persistence in Non-Volatile Main Memory" is accepted by [ISCA 2020](https://iscaconf.org/isca2020/). Congratulations to Xueliang Wei.  

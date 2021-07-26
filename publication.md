@@ -9,6 +9,8 @@ title: "Publications"
 ## **2021**
 - **[ICCAD]** **[MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM]()** is accepted by 40th International Conference on Computer-Aided Design (ICCAD), 2021. (Acceptance Rate: 121/514=23.5%)
   <br/>Wei Zhao, Dan Feng, Yu Hua, Wei Tong, Jingning Liu, Jie Xu, Chunyan Li, Gaoxiang Xu and Yiran Chen.
+- **[ICPP]** **[CERES: Container-Based Elastic Resource Management System for Mixed Workloads]()** is accepted by 50th International Conference on Parallel Processing (ICPP), 2021.
+  <br/>Jinyu Yu, Dan Feng, Wei Tong, Pengze Lv, and Yufei Xiong.
 - **[LCTES]** **[Better Atomic Writes by Exposing the Flash Out-Of-Band Area to File Systems](https://dl.acm.org/doi/abs/10.1145/3461648.3463843)** in Proceedings of the 22nd ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES), 2021. [[code](https://github.com/WNLO-DSAL/NBStack)]
   <br/>Hongwei Qin, Dan Feng, Wei Tong, Yutong Zhao, Sheng Qiu, Fei Liu, Shu Li.
 - **[DATE]** **[Improving the energy efficiency of STT-MRAM based approximate cache](http://thiszw.top/paper/appcache.pdf)** in Proceedings of Design, Automation and Test in Europe Conference (DATE), 2021.(Acceptance Rate: 24%)
