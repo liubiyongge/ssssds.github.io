@@ -174,4 +174,4 @@ Our group has published several papers on international conferences like ISCA, D
 - Our paper "Improving the energy efficency of STT-MRAM based approximate cache" is accepted by [DATE 2021](https://www.date-conference.com/). Congratulations to [Wei Zhao](https://thiszw.top).  
 - Our paper "MorLog: Morphable Hardware Logging for Atomic Persistence in Non-Volatile Main Memory" is accepted by [ISCA 2020](https://iscaconf.org/isca2020/). Congratulations to Xueliang Wei.  
 
-**We are looking for motivated Undergraduates and Master students to join the team, please feel free to contact me. (Email: tongwei@hust.edu.cn)**
+**We are looking for motivated undergraduates and master students to join the team, please feel free to contact me. (Email: tongwei@hust.edu.cn)**
