@@ -5,8 +5,31 @@ title: "Group Members"
 
 ## Teacher
 
-<center>    <img style="border-radius: 0.3125em; zoom:90%;   box-shadow: 0 2px 4px 0 rgba (34,36,38,.12),0 2px 10px 0 rgba (34,36,38,.08);"  height=260     src="./assets/img/tong_new.jpg">    <br>    <div style="color:orange; border-bottom: 1px solid #d9d9d9;    display: inline-block;    color: #999;    padding: 2px;"><a href="http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm">Wei Tong</a></div> </center>
 
+<table class="memberTable" border="0" width="100%" align="center">
+        <tbody>
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/feng.jpg" height="200" width="150"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/tong_new.jpg" height="200" width="150"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <a href="http://faculty.hust.edu.cn/dfeng/en/index.htm">Dan Feng <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=g57OG4QAAAAJ">[Google Scholar]</a>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <a href="http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm">Wei Tong <a href="https://scholar.google.com/citations?user=fq-Go0sAAAAJ&hl=zh-CN">[Google Scholar]</a>
+                    </div>
+                </td>                
+            </tr>
+        </tbody>
+</table>
 
 ## Postdoc
 
