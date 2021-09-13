@@ -19,12 +19,14 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
-                        <a href="http://faculty.hust.edu.cn/dfeng/en/index.htm">Dan Feng <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=g57OG4QAAAAJ">[Google Scholar]</a>
+                        <a href="http://faculty.hust.edu.cn/dfeng/en/index.htm">Dan Feng </a>
+                        <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=g57OG4QAAAAJ">[Google Scholar]</a>
                     </div>
                 </td>
                 <td>
                     <div style="text-align:center">
-                        <a href="http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm">Wei Tong <a href="https://scholar.google.com/citations?user=fq-Go0sAAAAJ&hl=zh-CN">[Google Scholar]</a>
+                        <a href="http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm">Wei Tong </a>
+                        <a href="https://scholar.google.com/citations?user=fq-Go0sAAAAJ&hl=zh-CN">[Google Scholar]</a>
                     </div>
                 </td>                
             </tr>
