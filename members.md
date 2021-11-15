@@ -261,7 +261,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62f1f5ca.jpg" height="200" width="150"></div>
                 </td>
                  <td>
-                    <div align="center" style="text-align:center"><img src="https://img04.sogoucdn.com/app/a/100520146/88349EDB8616A54B9AFC54CFDDFCAF08" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-QinZhongyv.jpg" height="200" width="150"></div>
                 </td>                
             </tr>
             <tr>
@@ -283,13 +283,13 @@ title: "Group Members"
             </tr>       
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://img02.sogoucdn.com/app/a/100520146/646868B207FCA2D962DAA2A341FE3888" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-JiangXv.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://img04.sogoucdn.com/app/a/100520146/A5FB8E778D85E7E5CD414AC7B50624B3" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiShuhan.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://img01.sogoucdn.com/app/a/100520146/99A80DC47A203F38896F5C16D095822F" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-XiaYuan.jpg" height="200" width="150"></div>
                 </td>                 
             </tr> 
             <tr>
@@ -311,10 +311,10 @@ title: "Group Members"
             </tr>                   
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://img03.sogoucdn.com/app/a/100520146/1DEE872FD33C0919E03DAD80B2A2D271" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-WanRun.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://img02.sogoucdn.com/app/a/100520146/EF6D5243A037F9540960129905C9E0CF" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LuoHongjie.jpg" height="200" width="150"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="" height="200" width="150"></div>
@@ -352,7 +352,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62f1f9ca.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://img01.sogoucdn.com/app/a/100520146/ACB688919B583A50C4E7969399DD37C6" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2020/20-LvPengze.jpg" height="200" width="150"></div>
                 </td>
             </tr>
             <tr>
