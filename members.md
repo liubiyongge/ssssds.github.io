@@ -42,7 +42,6 @@ title: "Group Members"
 ### In Lab
 #### SSS Group
 
-
 <table class="memberTable" border="0" width="100%" align="center">
         <tbody>
             <tr>
@@ -106,7 +105,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efad1a9bda8.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center border-radius:10%"><img src="https://www.hualigs.cn/image/60efad4475a3a.jpg" height="200" width="150"></div>
+                    <div align="center" style="text-align:center border-radius:10%"><img src="https://img02.sogoucdn.com/app/a/100520146/5683B3D1F087D714D01ED306AA7D2FEA" height="200" width="150"></div>
                 </td>
                  <td>
                     <div align="center" style="text-align:center border-radius:10%"><img src="https://www.hualigs.cn/image/60efae06d9d5e.jpg" height="200" width="150"></div>
@@ -143,6 +142,7 @@ title: "Group Members"
             </tr>
         </tbody>
 </table>
+
 
 
 #### SDS Group
@@ -260,6 +260,9 @@ title: "Group Members"
                  <td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62f1f5ca.jpg" height="200" width="150"></div>
                 </td>
+                 <td>
+                    <div align="center" style="text-align:center"><img src="https://img04.sogoucdn.com/app/a/100520146/88349EDB8616A54B9AFC54CFDDFCAF08" height="200" width="150"></div>
+                </td>                
             </tr>
             <tr>
                 <td>
@@ -271,10 +274,73 @@ title: "Group Members"
                     <div style="text-align:center">
                         <p>Kunhua Mo</p>
                     </div>
-                </td>                   
+                </td>  
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://github.com/qzylalala">Zhongyv Qin</a>
+                    </div>
+                </td>               
+            </tr>       
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="https://img02.sogoucdn.com/app/a/100520146/646868B207FCA2D962DAA2A341FE3888" height="200" width="150"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="https://img04.sogoucdn.com/app/a/100520146/A5FB8E778D85E7E5CD414AC7B50624B3" height="200" width="150"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="https://img01.sogoucdn.com/app/a/100520146/99A80DC47A203F38896F5C16D095822F" height="200" width="150"></div>
+                </td>                 
+            </tr> 
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://gitee.com/twelvecat">Xv Jiang</a>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://github.com/NickLee2050">Shuhan Li</a>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <a href ="https://github.com/JINGE-ui">Yuan Xia</a>
+                    </div>
+                </td>                 
+            </tr>                   
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="https://img03.sogoucdn.com/app/a/100520146/1DEE872FD33C0919E03DAD80B2A2D271" height="200" width="150"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="https://img02.sogoucdn.com/app/a/100520146/EF6D5243A037F9540960129905C9E0CF" height="200" width="150"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="" height="200" width="150"></div>
+                </td>
             </tr>
-        </tbody>
+            <tr>
+                <td>
+                    <div style="text-align:center">
+                        <p>Run Wan</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Hongjie Luo</p>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <p>Mengran Zhang</p>
+                    </div>
+                </td>               
+            </tr>            
+        </tbody>        
 </table>
+
+
 
 
 
@@ -286,7 +352,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62f1f9ca.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62fae7c4.jpg" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="https://img01.sogoucdn.com/app/a/100520146/ACB688919B583A50C4E7969399DD37C6" height="200" width="150"></div>
                 </td>
             </tr>
             <tr>
@@ -325,13 +391,14 @@ title: "Group Members"
 </table>
 
 
+
 ### Graduated
 
 2021:
 >Jie Yang (Intel) , Yufei Xiong  (Byte Dance) ,  Ziwei Zhao (Tencent) ,  Qinian Liu (Alibaba) , Zike Wang (Meituan) , Junqing Qin (Huawei) , Bihan Li (Alibaba) ,  Kai Tang (Huawei)
 
 2020:
->Xianpeng Wang (Huawei) , Mengye Peng (Alibaba) , Yutong Zhao (Huawei) , Junzhong Deng  () , Jiayi Chang () , Jinlong Chen (Huawei)
+>Xianpeng Wang (Huawei) , Mengye Peng (Alibaba) , Yutong Zhao (Huawei) , Junzhong Deng  (Tencent) , Jiayi Chang () , Jinlong Chen (Huawei)
 
 2019：
 >Yilin Li (Alibaba) , Mingshun Yang (Baidu) , Shuai Li (Electric Power of HeNan)
