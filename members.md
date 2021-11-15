@@ -136,7 +136,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-JiangXv.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiShuhan.jpg" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiShuhan.png" height="200" width="150"></div>
                 </td>                
             </tr>
             <tr>
