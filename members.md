@@ -294,7 +294,7 @@ title: "Group Members"
                 </td>  
                 <td>
                     <div style="text-align:center">
-                        <a href="https://github.com/qzylalala">Zhonyu Qin</a>
+                        <a href="https://github.com/qzylalala">Zhongyu Qin</a>
                     </div>
                 </td>               
             </tr>       
