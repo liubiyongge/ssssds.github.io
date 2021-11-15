@@ -36,7 +36,3 @@ title: ""
 ## 2. NBStack
 - Better atomic writes by exposing the flash out-of-band area to file systems
 - https://github.com/SSSSDS/NBStack
-
-## 3. CNN_VGG19_CUDA
-- Convolutional Neural Network of VGG19 model using CUDA to accelerate
-- https://github.com/SSSSDS/NBStack

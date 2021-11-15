@@ -132,13 +132,29 @@ title: "Group Members"
                 <td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc741af176.jpg" height="200" width="150"></div>
                 </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-JiangXv.jpg" height="200" width="150"></div>
+                </td>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiShuhan.jpg" height="200" width="150"></div>
+                </td>                
             </tr>
             <tr>
                 <td>
                     <div style="text-align:center">
                         <p>Jinpeng Liu</p>
                     </div>
-                </td>               
+                </td>   
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://gitee.com/twelvecat">Xv Jiang</a>
+                    </div>
+                </td>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://github.com/NickLee2050">Shuhan Li</a>
+                    </div>
+                </td>                            
             </tr>
         </tbody>
 </table>
@@ -284,44 +300,21 @@ title: "Group Members"
             </tr>       
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-JiangXv.jpg" height="200" width="150"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiShuhan.jpg" height="200" width="150"></div>
-                </td>
-                <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-XiaYuan.jpg" height="200" width="150"></div>
-                </td>                 
-            </tr> 
-            <tr>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://gitee.com/twelvecat">Xv Jiang</a>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://github.com/NickLee2050">Shuhan Li</a>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <a href ="https://github.com/JINGE-ui">Yuan Xia</a>
-                    </div>
-                </td>                 
-            </tr>                   
-            <tr>
+                </td> 
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-WanRun.jpg" height="200" width="150"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LuoHongjie.jpg" height="200" width="150"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="" height="200" width="150"></div>
-                </td>
-            </tr>
+                </td>                                
+            </tr> 
             <tr>
+                <td>
+                    <div style="text-align:center">
+                        <a href ="https://github.com/JINGE-ui">Yuan Xia</a>
+                    </div>
+                </td>  
                 <td>
                     <div style="text-align:center">
                         <p>Run Wan</p>
@@ -331,7 +324,14 @@ title: "Group Members"
                     <div style="text-align:center">
                         <p>Hongjie Luo</p>
                     </div>
+                </td>                               
+            </tr>                   
+            <tr>
+                <td>
+                    <div align="center" style="text-align:center"><img src="./assets/img/user.png" height="200" width="150"></div>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <div style="text-align:center">
                         <p>Mengran Zhang</p>
