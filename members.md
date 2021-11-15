@@ -133,7 +133,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc741af176.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-JiangXv.jpg" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-JiangXu.jpg" height="200" width="150"></div>
                 </td>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-LiShuhan.png" height="200" width="150"></div>
@@ -147,7 +147,7 @@ title: "Group Members"
                 </td>   
                 <td>
                     <div style="text-align:center">
-                        <a href="https://gitee.com/twelvecat">Xv Jiang</a>
+                        <a href="https://gitee.com/twelvecat">Xu Jiang</a>
                     </div>
                 </td>
                 <td>
@@ -278,7 +278,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62f1f5ca.jpg" height="200" width="150"></div>
                 </td>
                  <td>
-                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-QinZhongyv.jpg" height="200" width="150"></div>
+                    <div align="center" style="text-align:center"><img src="./assets/img/member_avator/2022/22-QinZhongyu.jpg" height="200" width="150"></div>
                 </td>                
             </tr>
             <tr>
@@ -294,7 +294,7 @@ title: "Group Members"
                 </td>  
                 <td>
                     <div style="text-align:center">
-                        <a href="https://github.com/qzylalala">Zhongyv Qin</a>
+                        <a href="https://github.com/qzylalala">Zhongu Qin</a>
                     </div>
                 </td>               
             </tr>       
@@ -364,7 +364,7 @@ title: "Group Members"
                 </td>
                 <td>
                     <div style="text-align:center">
-                        <a href="https://github.com/PancrasL">Pengze lv</a>
+                        <a href="https://github.com/PancrasL">Pengze lyu</a>
                     </div>
                 </td>            
             </tr>
