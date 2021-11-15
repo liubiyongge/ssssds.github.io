@@ -105,7 +105,7 @@ title: "Group Members"
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efad1a9bda8.jpg" height="200" width="150"></div>
                 </td>
                 <td>
-                    <div align="center" style="text-align:center border-radius:10%"><img src="https://img02.sogoucdn.com/app/a/100520146/5683B3D1F087D714D01ED306AA7D2FEA" height="200" width="150"></div>
+                    <div align="center" style="text-align:center border-radius:10%"><img src="./assets/img/member_avator/2019/19-ZhuWeilin.png" height="200" width="150"></div>
                 </td>
                  <td>
                     <div align="center" style="text-align:center border-radius:10%"><img src="https://www.hualigs.cn/image/60efae06d9d5e.jpg" height="200" width="150"></div>
@@ -142,6 +142,7 @@ title: "Group Members"
             </tr>
         </tbody>
 </table>
+
 
 
 
