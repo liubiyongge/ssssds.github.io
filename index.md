@@ -15,7 +15,7 @@ Our group has published several papers on international conferences like ISCA, D
     <title>picplay</title>
     <style>
         #divout {
-            max-width: 500px;
+            max-width: 600px;
             max-height: 400px;
             position: relative;
             margin: 0 auto;
@@ -94,12 +94,13 @@ Our group has published several papers on international conferences like ISCA, D
 
 <body>
     <!--    div#divout>(div.imgdiv>img+div.title{标题文本$})*4 +(div.dotdiv>span.dot*4)-->
+
     <div id="divout">
         <div class="imgdiv" style="display: block">
             <img src="/assets/img/league_building/2021_11_autumn.png" height="80%" width="80%" alt="">
             <div class="title">Group Party 2021</div>
         </div>
-        <div class="imgdiv" style="display: block">
+        <div class="imgdiv">
             <img src="/assets/img/league_building/2020_group_party.jpg" height="80%" width="80%" alt="">
             <div class="title">Group Party 2020</div>
         </div>
@@ -125,6 +126,7 @@ Our group has published several papers on international conferences like ISCA, D
         </div>
         <div class="dotdiv">
             <span class="dot active"></span>
+            <span class="dot"></span>
             <span class="dot"></span>
             <span class="dot"></span>
             <span class="dot"></span>
