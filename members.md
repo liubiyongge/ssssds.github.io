@@ -159,28 +159,8 @@ title: "Group Members"
             <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/user.png" height="200" width="150"></div>
-                </td>             
-            </tr>
-            <tr>
-                <td>
-                    <div style="text-align:center">
-                        <p>Yibo Liu</p>
-                    </div>
-                </td>             
-            </tr>                        
-        </tbody>
-</table>
-
-
-
-
-#### SDS Group
-
-
-<table class="memberTable" border="0" width="100%" align="center">
-        <tbody>
-            <tr>
-                <td>
+                </td>
+				<td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efbeb529b9f.jpg" height="200" width="150"></div>
                 </td>
                 <td>
@@ -190,6 +170,11 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
+                        <p>Yibo Liu</p>
+                    </div>
+                </td>   
+                 <td>
+                    <div style="text-align:center">
                         <p>Yu Chen</p>
                     </div>
                 </td>
@@ -197,32 +182,32 @@ title: "Group Members"
                     <div style="text-align:center">
                         <a href="https://yujinyu.site">Jinyu Yu</a>
                     </div>
-                </td>                
-            </tr>
+                </td>  
+            </tr>                        
         </tbody>
 </table>
 
+
+
 ### Graduated
 
-2021:
-> Chengning Wang (HUST)
-
-2020:
-> Jie Xu (Huawei)
-
-2019:
-> Yang Zhang (Huawei) , Yazhi Feng (Huawei)
-
-2018:
-> Zheng Li (Huawei) , Jianquan Zhang (Hubei University of Science and Technology)
+| **2021** |                  |
+| -------- | ---------------- |
+| 汪承宁   | 华中科技大学     |
+| **2020** |                  |
+| 徐洁     | 华为技术有限公司 |
+| **2019** |                  |
+| 张扬     | 华为技术有限公司 |
+| 冯雅植   | 华为技术有限公司 |
+| **2018** |                  |
+| 李铮     | 华为技术有限公司 |
+| 张建权   | 湖北科技大学     |
 
 
 
 ## Master Students
 
 ### In Lab
-
-#### SSS Group
 
 <table class="memberTable" border="0" width="100%">
         <tbody>
@@ -342,25 +327,6 @@ title: "Group Members"
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/user.png" height="200" width="150"></div>
                 </td>
-            </tr>
-            <tr>
-                <td>
-                    <div style="text-align:center">
-                        <p>Mengran Zhang</p>
-                    </div>
-                </td>               
-            </tr>            
-        </tbody>        
-</table>
-
-
-
-
-
-#### SDS Group 
-<table class="memberTable" border="0" width="100%" >
-        <tbody>
-            <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62f1f9ca.jpg" height="200" width="150"></div>
                 </td>
@@ -371,6 +337,11 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
+                        <p>Mengran Zhang</p>
+                    </div>
+                </td>   
+               <td>
+                    <div style="text-align:center">
                         <p>Xiao Luo</p>
                     </div>
                 </td>
@@ -378,8 +349,8 @@ title: "Group Members"
                     <div style="text-align:center">
                         <a href="https://github.com/PancrasL">Pengze lyu</a>
                     </div>
-                </td>            
-            </tr>
+                </td> 
+            </tr>            
             <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc63005688.jpg" height="200" width="150"></div>
@@ -404,20 +375,43 @@ title: "Group Members"
 </table>
 
 
-
 ### Graduated
 
-2021:
->Jie Yang (Intel) , Yufei Xiong  (Byte Dance) ,  Ziwei Zhao (Tencent) ,  Qinian Liu (Alibaba) , Zike Wang (Meituan) , Junqing Qin (Huawei) , Bihan Li (Alibaba) ,  Kai Tang (Huawei)
-
-2020:
->Xianpeng Wang (Huawei) , Mengye Peng (Alibaba) , Yutong Zhao (Huawei) , Junzhong Deng  (Tencent) , Jiayi Chang () , Jinlong Chen (Huawei)
-
-2019：
->Yilin Li (Alibaba) , Mingshun Yang (Baidu) , Shuai Li (Electric Power of HeNan)
-
-2014:
->Bowen Gong (Tencent)
-
-2009:
-> Lu Zhang (Inspur)
+| **2021** |                                |
+| -------- | ------------------------------ |
+| 赵子威   | 腾讯科技(深圳)有限公司         |
+| 熊宇飞   | 深圳今日头条科技有限公司       |
+| 王子轲   | 汉海信息技术(上海)有限公司     |
+| 秦俊青   | 华为技术有限公司武汉研究所     |
+| 杨洁     | 英特尔亚太研发有限公司         |
+| 刘启念   | 阿里巴巴                       |
+| 唐凯     | 华为技术有限公司               |
+| **2020** |                                |
+| 常嘉怡   | 英特尔亚太研发有限公司         |
+| 陈劲龙   | 上海华为技术有限公司           |
+| 王先鹏   | 华为技术有限公司武汉研究所     |
+| 邓竣中   | 腾讯科技(深圳)有限公司         |
+| 彭梦烨   | 阿里巴巴                       |
+| 赵雨桐   | 华为技术有限公司               |
+| **2019** |                                |
+| 姜越     | 英特尔亚太研发有限公司         |
+| 严康     | 浙江天猫技术有限公司           |
+| 谢乘胜   | 浙江天猫技术有限公司           |
+| 郭甜     | 百度在线网络技术(北京)有限公司 |
+| 李帅     | 河南电力公司                   |
+| 杨明顺   | 百度                           |
+| **2018** |                                |
+| 孙博     | 浙江天猫技术有限公司           |
+| 雷霞     | 腾讯科技(深圳)有限公司         |
+| 马骏     | 腾讯科技(深圳)有限公司         |
+| 刘翔     | 腾讯科技(深圳)有限公司         |
+| **2017** |                                |
+| 徐海娟   | 华为技术有限公司               |
+| 张迪青   | 河南省滑县人力资源和社会保障局 |
+| 宋俊辉   | 华为技术有限公司               |
+| **2016** |                                |
+| 刘珂男   | 浙江天猫技术有限公司           |
+| 尹武哲   | 腾讯科技（深圳）有限公司       |
+| **2014**     |                                |
+| 龚博文   | 华为技术有限公司上海研究所     |
+| 刘敏     | 华为技术有限公司上海研究所     |
