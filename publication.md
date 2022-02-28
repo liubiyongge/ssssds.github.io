@@ -5,8 +5,8 @@ title: "Publications"
 
 # Conference Paper
 
----
 ## **2021**
+
 - **[ICCAD]** **[MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM]()** is accepted by 40th International Conference on Computer-Aided Design (ICCAD), 2021. (Acceptance Rate: 121/514=23.5%)
   <br/>Wei Zhao, Dan Feng, Yu Hua, Wei Tong, Jingning Liu, Jie Xu, Chunyan Li, Gaoxiang Xu and Yiran Chen.
 - **[ICPP]** **[CERES: Container-Based Elastic Resource Management System for Mixed Workloads]()** is accepted by 50th International Conference on Parallel Processing (ICPP), 2021.
@@ -76,8 +76,6 @@ title: "Publications"
 - **[DAC]** **[A Novel ReRAM-based Main Memory Structure for Optimizing Access Latency and Reliability](https://dl.acm.org/doi/pdf/10.1145/3061639.3062191)** is accepted by 54th Design Automation Conference (DAC) 2017.
 <br/>Yang Zhang, Dan Feng, Jingning Liu, Wei Tong, Bing Wu, Caihua Fang.
 
-
-
 ## **2016**
 - **[ICPADS]** **[Application-Aware and Software-Defined SSD Scheme for Tencent Large-Scale Storage System](https://ieeexplore.ieee.org/abstract/document/7823786)** is accepted by 2016 IEEE 22nd International Conference on Parallel and Distributed Systems (ICPADS)
 <br/>Zhang  Jianquan, Feng Dan, Gao Jianlin, Tong Wei, Liu Jingning, Hua Yu, Gao Yang, Fang Caihua, Xia Wen, Fu Feiling, Li Yaqing.
@@ -109,8 +107,21 @@ title: "Publications"
 
 # Journal Article
 ---
+## 2022
+
+- **[FGCS]** **[Cora: Data correlations-based storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:-FonjvnnhkoC)** accepted by Future Generation Computer Systems(FGCS), 2022.
+<br/> Yu Chen, Wei Tong, Dan Feng, Zike Wang.
+- **[JPDC]** **[Workload-aware storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:e_rmSamDkqQC)** accepted by Journal of Parallel and Distributed Computing(JPDC), 2022.
+<br/>Yu Chen, Wei Tong, Dan Feng, Zike Wang.
+- **[计算机研究与发展]** **Coordinated Metadata Management for Secure Persistent Memory** accepted by Journal of Computer Research and Development, 2022.
+<br/>Xueliang Wei, Mingshun Yang, Dan Feng, Jingning Liu, Bing Wu, Renzhi Xiao, Wei Tong.
+- **[计算机研究与发展]** **Energy-Efficient Floating-Point Memristive In-Memory Processing System based on Self-selective Mantissa Compaction** accepted by Journal of Computer Research and Development, 2022.
+  <br/>Wenlong Ding, Chengning Wang, Wei Tong.
+
 ## **2021**
 
+- **[TCAD]** **[Space-Time-Efficient Modeling of Large-Scale 3D Cross-Point Memory Arrays by Operation Adaption and Network Compaction](https://ieeexplore.ieee.org/abstract/document/9592686)** accepted by Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
+<br/>Chengning Wang,Dan Feng,Wei Tong,Jingning Liu,Bing Wu, Yiran Chen.
 - **[JSA]** **[QBLKe: Host-side flash translation layer management for Open-Channel SSDs](https://www.sciencedirect.com/science/article/pii/S1383762121001624)** in Journal of Systems Architecture (JSA), 2021.
 <br/>Hongwei Qin, Dan Feng, Wei Tong, Yutong Zhao, Mengye Peng, Jingning Liu.
 
@@ -157,3 +168,12 @@ title: "Publications"
 ## **2015**
 - **[TACO]** **[Improving Hybrid FTL by Fully Exploiting Internal SSD Parallelism with Virtual Blocks](https://dl.acm.org/doi/abs/10.1145/2677160)** is accepted by ACM Transactions on Architecture and Code Optimization(TACO) 2015.
 <br/>Yi Qin, Dan Feng, Jingning Liu, Wei Tong, and Zhiming Zhu.
+
+
+
+# Outstanding Undergraduate Graduation Design 
+
+## 2021
+
+- 计算机科学与技术 刘锦鹏 [基于忆阻器存算融合架构的逻辑计算映射方法的设计与实现](http://jwc.hust.edu.cn/info/1142/4713.htm) 童薇
+- 计算机科学与技术 丁文隆 [面向高能效科学计算的忆阻器阵列存内处理系统研究](http://jwc.hust.edu.cn/info/1142/4713.htm) 童薇
