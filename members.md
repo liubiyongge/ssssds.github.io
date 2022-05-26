@@ -361,7 +361,7 @@ title: "Group Members"
             <tr>
                 <td>
                     <div style="text-align:center">
-                        <p>Biyong Liu</p>
+                        <a href="https://github.com/liubiyongge">Biyong Liu</a>
                     </div>
                 </td>   
                 <td>
