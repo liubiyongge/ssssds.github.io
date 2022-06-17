@@ -108,7 +108,7 @@ title: "Publications"
 # Journal Article
 ---
 ## 2022
-
+- **[TCAD]** **[A Low Latency and High Endurance MLC STT-MRAM based Cache System](https://ieeexplore.ieee.org/abstract/document/9761996)** accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2022.
 - **[FGCS]** **[Cora: Data correlations-based storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:-FonjvnnhkoC)** accepted by Future Generation Computer Systems(FGCS), 2022.
 <br/> Yu Chen, Wei Tong, Dan Feng, Zike Wang.
 - **[JPDC]** **[Workload-aware storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:e_rmSamDkqQC)** accepted by Journal of Parallel and Distributed Computing(JPDC), 2022.
