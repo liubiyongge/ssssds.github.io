@@ -376,6 +376,10 @@ title: "Group Members"
 
 ### Graduated
 
+2022:
+
+> Minghao Yang(Bytedance), Denghui Wu(Alibaba Cloud), Tianran Xiao(Bytedance), Peihao Li(Jinshan Cloud), Xiao Luo(Meituan)
+
 2021:
 
 > Ziwei Zhao(Tencent), Yufei Xiong(Byte Dance), Zike Wang(Meituan), Junqing Qin(Huawei), Jie Yang(Intel), Qinian Liu(Alibaba), Kai Tang(Huawei)
