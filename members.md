@@ -212,9 +212,6 @@ title: "Group Members"
         <tbody>
             <tr>
                 <td>
-                    <div align="center" style="text-align:center"><img src="https://i.loli.net/2021/07/15/sPcz2XuISriZNYR.jpg" height="200" width="150"></div>
-                </td>
-                <td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62fbeb7a.jpg" height="200" width="150"></div>
                 </td>
                 <td>
@@ -222,6 +219,11 @@ title: "Group Members"
                 </td>
             </tr>
             <tr>
+                <td>
+                    <div style="text-align:center">
+                        <a href="https://gasolly.github.io/">Xufei Pan</a>
+                    </div>
+                </td>
                 <td>
                     <div style="text-align:center">
                         <p>Hujun Ge</p>
